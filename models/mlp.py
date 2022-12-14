@@ -5,7 +5,6 @@ import numpy as np
 import tensorflow as tf
 from tensorflow.python.keras.layers import Dense
 from tensorflow.python.keras.models import Sequential
-from joblib import dump, load
 from sklearn.model_selection import train_test_split
 
 
