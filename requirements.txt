@@ -1,6 +1,6 @@
 ############ Project requirements ############
 numpy == 1.23.3
 pandas == 1.5.0
-scikit-learn == 1.1.2
+scikit-learn == 1.5.0
 tensorflow == 2.11.1
 matplotlib == 3.6.1
